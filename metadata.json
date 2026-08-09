@@ -1,0 +1,6 @@
+{
+  "name": "Reelsnip AI - AI Shorts Creator",
+  "description": "Professional browser-based video shorts generator using FFmpeg.wasm, WebCodecs, and Canvas API for 100% local processing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
